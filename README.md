@@ -18,13 +18,13 @@ Este projeto é um aplicativo mobile desenvolvido em React Native utilizando Exp
 
 Ao abrir o aplicativo, o usuário visualiza o Bat-Sinal e um botão para acionar o formulário:
 
-![Tela Inicial](./assets/Inicio.jpeg)
+![Tela Inicial](./src/images/Inicio.jpeg)
 
 ### Tela de Formulário
 
 Após acionar o Bat-Sinal, o formulário é exibido para preenchimento dos dados:
 
-![Tela de Formulário](./assets/Fomulario.jpeg)
+![Tela de Formulário](./src/images/Fomulario.jpeg)
 
 ## Como Executar
 
